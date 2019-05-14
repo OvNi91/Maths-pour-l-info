@@ -16,8 +16,8 @@ protected:
     std::string _tableau;
 
 public:
-    void display;
-    void fill_automaton;
+    void display();
+    void fill_automaton();
 };
 
 #endif // AUTOMATON_H_INCLUDED
