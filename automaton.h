@@ -18,6 +18,11 @@ protected:
 public:
     void display();
     void fill_automaton();
+<<<<<<< HEAD
+=======
+    void completer_automaton();
+    void is_complete();
+>>>>>>> refs/remotes/origin/master
 };
 
 #endif // AUTOMATON_H_INCLUDED

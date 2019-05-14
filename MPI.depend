@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\meder\documents\efrei\c++\mpi\maths-pour-l-info\main.cpp
+	<iostream>
+
+1557827863 source:c:\users\meder\documents\efrei\c++\mpi\maths-pour-l-info\automaton.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"automaton.h"
+
+1557827909 c:\users\meder\documents\efrei\c++\mpi\maths-pour-l-info\automaton.h
+	<iostream>
+	<string>
+
