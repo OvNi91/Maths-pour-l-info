@@ -8,9 +8,12 @@ protected:
     int _nb_transitions;
     int _nb_states;
     int _nb_init_states;
+    std::string _init_states;
     int _nb_final_states;
+    std::string final_states;
     int _nb_symbols;
     std::string _transitions;
+    std::string _tableau;
 
 public:
     void display;
